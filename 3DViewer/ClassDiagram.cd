@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>3DViewer.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMy3DViewerApp" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAABAAAAAAQAAAABAAAAAAI=</HashCode>
+      <FileName>3DViewer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMy3DViewerDoc" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAgAAgISggAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>3DViewerDoc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMy3DViewerView" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAS9A9AAAgAGABEhEAAgIAAAAAAAAgIAARAAQI=</HashCode>
+      <FileName>3DViewerView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cBoundbox" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAUAEAAAAQAAAAAAIABAIAIAAQgAQgBAAIACgEAAA=</HashCode>
+      <FileName>cBoundbox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cCamera" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAgGEgAAAAKAAAAAAAIAJIAAABAAEAIAAQgBQgBEBAA=</HashCode>
+      <FileName>cCamera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cCube" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAgAAAAAAAAAAAAAAAAAAAAAABAAAACAAAEAAA=</HashCode>
+      <FileName>cCube.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cFigure" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAUgEAACAAQJCIAAMAIIgCAAAQAiSIKAgDAoDFsAA=</HashCode>
+      <FileName>cFigure.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cGrid" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAACAAAAAAAABIAAAAgAAAAAAAQEAAAAAAAAAA=</HashCode>
+      <FileName>cGrid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cLight" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAAAAAAAQCAAACAAAgIAAAAAAAAAAAIAAAAgBAAkAAA=</HashCode>
+      <FileName>cLight.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cLoader" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAEAAAAA=</HashCode>
+      <FileName>cLoader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cMain" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQwACAAqAMAAgCoAAEIJAAAAAAAECACgEgDVBCACAA=</HashCode>
+      <FileName>cMain.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cMesh" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAUgEAAAAAAAAAAIMAAIgKAAAwAiYAAAABAgDEMAI=</HashCode>
+      <FileName>cMesh.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cPyramid" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAEAAAAAAAAAAQIAAAAACAAQAAYAAAAAAAAAAAA=</HashCode>
+      <FileName>cPyramid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cSphere" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAEQQA=</HashCode>
+      <FileName>cSphere.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cTorus" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAgAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAACAAAEAAA=</HashCode>
+      <FileName>cTorus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainFrame" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAgACAAAiAAAACAAAgAAAAAAAAAAABA=</HashCode>
+      <FileName>MainFrm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jbMath::Matrix" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAIAAAAAAAIAAQAAAAAgACAAAsAgAAgAACA=</HashCode>
+      <FileName>jbMath.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jbMath::Vector3" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAADYAEAAgAQBACAAAAICCAABkAQAAACA=</HashCode>
+      <FileName>jbMath.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="jbUtill::vertex" Collapsed="true">
+    <Position X="11" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAIAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Utill.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jbUtill::pcn" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAIgAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Utill.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jbUtill::Ray" Collapsed="true">
+    <Position X="9.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utill.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
